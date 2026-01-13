@@ -24,9 +24,3 @@ An automated car parking system that uses **IR sensors** for real-time slot dete
 - The LCD is updated in real time to show current parking availability.  
 - The code and wiring are structured to make adding new slots as simple as updating pin mappings and slot count.
 
-## Getting Started
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/automated-car-parking-system.git
-   cd automated-car-parking-system
